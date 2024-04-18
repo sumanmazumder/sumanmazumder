@@ -1,4 +1,4 @@
-### Hello Everyone! I'm Suman.👋 From brush strokes to code lines, I have been blending my artistry into top-tier Frontend Development over a decade.
+### Hello Everyone! I'm Suman.👋 I am a Senior UI/UX Designer and a Frontend Developer, working in this industry over a decade.
 
 ### Here is how I spent my 10 years in the world of Technologies!!
 I stepped into the world of Tech by taking a course on UI/UX and Graphics Design from IGNOU, in 2012. Within 2 years, my enthusiastic explorer mind taught me fair enough to land a job as a Web Designer at SZI Technologies, Kolkata. 🚀 <br />
